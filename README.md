@@ -33,8 +33,8 @@ El ecosistema de PentaNet se divide en dos repositorios principales (Cliente y S
 
 Para facilitar la evaluación del tribunal y mantener la documentación lo más accesible posible, se han incluido los siguientes recursos complementarios en este espacio:
 
-* 📂 **[Esquema de la Base de Datos (E-R) en Alta Resolución](./nombre_de_tu_imagen.jpg):** Diagrama completo del modelo relacional de MySQL para visualizar las entidades y relaciones del sistema a un tamaño mayor que el de la memoria impresa.
-* 📂 **[Script de Creación SQL](./script_base_datos.sql):** Archivo con las sentencias DDL para la generación completa de las tablas, restricciones de integridad referencial y datos semilla iniciales.
+* 📂 **[Esquema de la Base de Datos (E-R) en Alta Resolución](./Archivos/Diagrama-PentaNet.png):** Diagrama completo del modelo relacional de MySQL para visualizar las entidades y relaciones del sistema a un tamaño mayor que el de la memoria impresa.
+* 📂 **[Script de Creación SQL](./Archivos/BD.sql):** Archivo con las sentencias DDL para la generación completa de las tablas, restricciones de integridad referencial y datos semilla iniciales.
 
 ---
 
