@@ -34,7 +34,7 @@ Para facilitar la evaluación del tribunal y mantener la documentación lo más 
 
 * 📂 **[Carpeta TFG-ManualUsuario](./TFG-ManualUsuario):** Directorio principal que aloja los documentos oficiales del proyecto:
   * 📄 **[Memoria Técnica del TFG (PDF)](./TFG-ManualUsuario/Proyecto-EsquemaMemoriaDAM-Desarrollo.pdf):** Documentación completa que abarca el análisis, diseño, desarrollo, pruebas y conclusiones del sistema.
-  * 📘 **[Manual de Usuario (PDF)](./TFG-ManualUsuario/Manual-de-Usuario.pdf):** Guía visual paso a paso interactiva para la puesta en marcha y uso de la aplicación según cada rol.
+  * 📘 **[Manual de Usuario (PDF)](./TFG-ManualUsuario/Manual-de-usuario.pdf):** Guía visual paso a paso interactiva para la puesta en marcha y uso de la aplicación según cada rol.
 * 📂 **[Esquema de la Base de Datos (E-R) en Alta Resolución](./Archivos/Diagrama-PentaNet.png):** Diagrama completo del modelo relacional de MySQL para visualizar las entidades y relaciones del sistema a un tamaño mayor que el de la memoria impresa.
 * 📂 **[Script de Creación SQL](./Archivos/BD.sql):** Archivo con las sentencias DDL para la generación completa de las tablas, restricciones de integridad referencial y datos semilla iniciales.
 
